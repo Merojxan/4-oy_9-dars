@@ -1,3 +1,4 @@
+// 1-masala
 // const a = prompt("a sonini kiriting");
 // const n = prompt("n sonini kiriting");
 
@@ -7,6 +8,7 @@
 // };
 // toConvert(a, n);
 
+// 2-masala
 // const a = prompt("a sonini kiriting");
 // const n = prompt("n sonini kiriting");
 
@@ -17,6 +19,7 @@
 
 // parseDemical(a, n);
 
+// 3-masala
 // function logPrime(n) {
 //   for (let i = 2; i < n; i++) {
 //     if (!isPrime(i)) continue;
@@ -33,6 +36,7 @@
 
 // logPrime(42);
 
+// 4-masala
 // const login = prompt("Login kiriting(kamida 3ta belgi): ");
 // const password = prompt("Parol kiriting(kamida 8ta belgi): ");
 // const user = {
@@ -52,6 +56,7 @@
 
 // console.log(testLoginPassword(user));
 
+// 5-masala
 // const arr = [454, 123, 23, 500, 2, 300, 100, 433, 235, 96, 3];
 
 // const arrFind = (arr) => {
@@ -64,6 +69,7 @@
 
 // console.log(arrFind(arr));
 
+// 6-masala
 // const n = prompt("n sonini kiriting");
 // const a = prompt("a sonini kiriting");
 // const arr = [454, 123, 23, 500, 2, 300, 100, 433, 235, 96, 3];
@@ -80,6 +86,7 @@
 
 // printIntervalArr();
 
+// 7-masala
 // const n = prompt("n sonini kiriting");
 // const a = prompt("a sonini kiriting");
 // const arr = [454, 123, 23, 500, 2, 300, 100, 433, 235, 96, 3];
@@ -98,6 +105,7 @@
 
 // printIntervalArr();
 
+// 8-masala
 // const n = prompt("n sonini kiriting");
 // const a = prompt("a sonini kiriting");
 // const arr = [454, 123, 23, 500, 2, 300, 100, 433, 235, 96, 3];
@@ -120,6 +128,7 @@
 
 // printIntervalArr();
 
+// 9-masala
 // const n = prompt("n sonini kiriting");
 // const a = prompt("a sonini kiriting");
 // const arr = [454, 123, 23, 500, 2, 300, 100, 433, 235, 96, 3];
@@ -142,6 +151,7 @@
 
 // printIntervalArr();
 
+// 10-masala
 // const arr = [454, 123, 23, 500, 2, 300, 100, 433, 235, 96, 3];
 // function isProgression(arr) {
 //   if (arr.length <= 2) {
